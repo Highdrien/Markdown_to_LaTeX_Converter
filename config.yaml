@@ -1,0 +1,13 @@
+markdown:
+    folder: markdown_files
+    file: swarm_project.md
+
+latex:
+    folder: latex_files
+
+param:
+    autor: Adrien
+    title: README \\ Projet swarm
+    margin: small
+    begin_line: 1
+    language: english
